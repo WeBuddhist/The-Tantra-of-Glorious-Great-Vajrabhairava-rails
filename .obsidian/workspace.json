@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/རྒྱུད་རྟོག་པ་བདུན་པའི་རྒྱ་ཆེར་བཤད་པ་རྡོ་རྗེའི་ཚིག་གི་སྒོ་འབྱེད། སྟོད་ཆ།.md",
+                "file": "1-SOURCES/Text/དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཆེན་པོའི་རྒྱུད།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "རྒྱུད་རྟོག་པ་བདུན་པའི་རྒྱ་ཆེར་བཤད་པ་རྡོ་རྗེའི་ཚིག་གི་སྒོ་འབྱེད། སྟོད་ཆ།"
+              "title": "དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཆེན་པོའི་རྒྱུད།"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "09444cff029aa6eb",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/རྒྱུད་རྟོག་པ་བདུན་པའི་རྒྱ་ཆེར་བཤད་པ་རྡོ་རྗེའི་ཚིག་གི་སྒོ་འབྱེད། སྟོད་ཆ།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md",
-    "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/create-skill/SKILL.md"
   ]
 }
